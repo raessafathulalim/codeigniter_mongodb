@@ -1,0 +1,15 @@
+{
+    "name": "libreworks/ext-mongodb-hhi",
+    "description": "Typechecker definitions for MongoDB HHVM Driver",
+    "keywords": ["hhvm", "hack", "hhi", "mongodb"],
+    "homepage": "https://github.com/libreworks/ext-mongodb-hhi",
+    "license": ["Apache-2.0"],
+    "suggest": {
+        "ext-mongodb": "To connect to MongoDB"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.2.x-dev"
+        }
+    }
+}
